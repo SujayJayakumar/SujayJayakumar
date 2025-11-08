@@ -53,17 +53,5 @@
 
 ---
 
-## 🎮 The Random Emoji Runner  
-> *A tiny digital Sujay running endlessly across the README...*
->
-> 
-#### 💫 Refresh the page — it changes every time!  
-You might catch different emojis running by 👇  
-> 🐍 🏃‍♂️ 🚀 🐱‍👤 🦄 ⚡ 🏎️ 🌈 🔥 🧠 💥  
-
----
-
-⭐ **"Code. Learn. Build. Repeat."**  
-💻 *Made with curiosity and caffeine by [Sujay Jayakumar](https://github.com/SujayJayakumar)*  
-
+## 🎮 
 
